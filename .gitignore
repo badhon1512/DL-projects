@@ -1,1 +1,5 @@
 .ipynb_checkpoints/
+# Ignore JPEG and JPG images
+*.jpg
+*.jpeg
+*.zip
